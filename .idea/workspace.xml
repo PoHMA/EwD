@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49dd6789-6db7-4aa5-90e7-d6e8c5c00c41" name="Default" comment="" />
+    <list default="true" id="49dd6789-6db7-4aa5-90e7-d6e8c5c00c41" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +20,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="19" />
               <folding>
                 <element signature="e#86#87#0" expanded="true" />
                 <element signature="e#122#123#0" expanded="true" />
@@ -48,8 +50,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="44" />
+    <option name="x" value="13" />
+    <option name="y" value="52" />
     <option name="width" value="1346" />
     <option name="height" value="704" />
   </component>
@@ -137,8 +139,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="16" width="1346" height="704" extended-state="1" />
-    <editor active="true" />
+    <frame x="13" y="52" width="1346" height="704" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -149,9 +150,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007429" side_tool="true" visible="true" weight="0.32885906" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943144" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49925706" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925706" weight="0.32885906" />
       <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32986626" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49925706" visible="true" weight="0.32885906" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962853" />
@@ -208,8 +209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="19" />
           <folding>
             <element signature="e#86#87#0" expanded="true" />
             <element signature="e#122#123#0" expanded="true" />
