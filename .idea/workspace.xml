@@ -2,7 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49dd6789-6db7-4aa5-90e7-d6e8c5c00c41" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/App$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/controller/ControllerCanvas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/controller/ControllerDiagrammed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/controller/menuBar/ControllerEstructuraDatosMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/img/giif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/img/giif2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/modelo/estructuraDatosLineales/Lista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/modelo/estructuraDatosLineales/ListaSE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/CanvasFigure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/Information.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MethodPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MethodPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/ToolBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/canvas/AnimacionNodo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/canvas/CanvasListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/canvas/Nodo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/canvas/StringListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/EstructuraDatosMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/HelpMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/MethodMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/estructuraDato/EstructuraDatoLineal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/estructuraDato/ListaSE$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/estructuraDato/ListaSE$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/estructuraDato/ListaSE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/helpMenu/AboutItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/methodPanel/MethodEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/methodPanel/MethodListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/controller/ControllerCanvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/view/component/MenuBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/view/component/MethodPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/view/component/ToolBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/view/component/canvas/AnimacionNodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/view/component/canvas/StringListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/view/component/methodPanel/MethodEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/view/component/methodPanel/MethodListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/controller/menuBar/ControllerEstructuraDatosMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/controller/menuBar/ControllerEstructuraDatosMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/Diagrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/Diagrammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/CanvasFigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/CanvasFigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/Information.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/MenuBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/canvas/CanvasListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/canvas/CanvasListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/canvas/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/canvas/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/CodeMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/EstructuraDatosMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/menuBar/EstructuraDatosMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/HelpMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/menuBar/HelpMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/MethodMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/menuBar/MethodMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/RecursividadMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/codeMenu/Generate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/estructuraDato/EstructuraDatoLineal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/menuBar/estructuraDato/EstructuraDatoLineal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/estructuraDato/ListaSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/menuBar/estructuraDato/ListaSE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/helpMenu/AboutItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/menuBar/helpMenu/AboutItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/modelo/Controller.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,15 +83,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <file leaf-file-name="Diagrammer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/Diagrammer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="19" />
+            <state relative-caret-position="191">
+              <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
               <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2187#2188#0" expanded="true" />
+                <element signature="e#2239#2240#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ControllerDiagrammed.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Information.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/component/Information.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -35,6 +124,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,14 +136,42 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/MenuBar.java" />
+        <option value="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/EstructuraDatosMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/graphic/displayMain/Diagrammer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/menuBar/estructuraDato/ListaSE.java" />
+        <option value="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/canvas/AnimacionNodo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/graphic/displayMain/component/CanvasFigure.java" />
+        <option value="$PROJECT_DIR$/src/com/company/View.java" />
+        <option value="$PROJECT_DIR$/src/com/company/App.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/Video.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/ToolBar.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/ControllerCanvas.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/CanvasFigure.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/canvas/StringListener.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/Information.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/menuBar/ControllerEstructuraDatosMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/EstructuraDatosMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/estructuraDato/EstructuraDatoLineal.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/estructuraDato/ListaSE.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/methodPanel/methodEvent.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/methodPanel/MethodListener.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/methodPanel/MethodEvent.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/MethodPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/controllerDiagrammer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/Diagrammer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/MenuBar.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/Diagrammer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/modelo/estructuraDatosLineales/ListaSE.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="13" />
-    <option name="y" value="52" />
-    <option name="width" value="1346" />
-    <option name="height" value="704" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="24" />
+    <option name="width" value="683" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -61,7 +179,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,16 +198,35 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Ejemplificador" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ejemplificador" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ejemplificador" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company.controller" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,7 +242,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.company.App" />
       <module name="Ejemplificador" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -135,41 +272,87 @@
       <option name="project" value="LOCAL" />
       <updated>1526828558152</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created NavBAr and Canvas">
+      <created>1526831301595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526831301596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="13" y="52" width="1346" height="704" extended-state="0" />
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32885906" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924242" weight="0.32917318" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49851412" weight="0.32885906" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007429" side_tool="true" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50757575" side_tool="true" weight="0.30109206" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32943144" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49925706" weight="0.32885906" />
-      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32986626" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49925706" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49242425" visible="true" weight="0.2730109" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848485" weight="0.32761312" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49772727" weight="0.32761312" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962853" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34015152" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917318" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.32986626" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49772727" weight="0.32761312" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49242425" visible="true" weight="0.30109206" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24318182" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924242" weight="0.32917318" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.32986626" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49848485" weight="0.32761312" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50757575" side_tool="true" visible="true" weight="0.30109206" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49851412" weight="0.32885906" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -186,37 +369,456 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Project" />
+    <MESSAGE value="Created NavBAr and Canvas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created NavBAr and Canvas" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/menuBar/ControllerEstructuraDatosMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/ControllerCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/AnimacionNodo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/CanvasFigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/img/giif.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/img/giif2.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplificador.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/Diagrammer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="240">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplificador.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/Diagrammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/Diagrammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/img/giif.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/img/giif2.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejemplificador.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/AnimacionNodo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="1791" column="16" selection-start-line="1791" selection-start-column="16" selection-end-line="1791" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/ControllerCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/StringListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/CanvasListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/ToolBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/menuBar/ControllerEstructuraDatosMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/estructuraDato/EstructuraDatoLineal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/estructuraDato/ListaSE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/CanvasFigure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/methodPanel/MethodListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/methodPanel/MethodEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/CodeMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/EstructuraDatosMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/HelpMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/RecursividadMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/modelo/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/MethodMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/helpMenu/AboutItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/MenuBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/MethodPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="90" column="17" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2414#2415#0" expanded="true" />
+            <element signature="e#2460#2461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/modelo/estructuraDatosLineales/ListaSE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/Diagrammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2187#2188#0" expanded="true" />
+            <element signature="e#2239#2240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Ejemplificador</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>JDK_1.8.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

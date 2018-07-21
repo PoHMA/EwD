@@ -5,9 +5,9 @@
  */
 package com.company.controller.menuBar;
 
-import com.company.graphic.displayMain.component.CanvasFigure;
-import com.company.graphic.displayMain.component.Information;
-import com.company.graphic.displayMain.component.menuBar.MethodMenu;
+import com.company.controller.ControllerCanvas;
+import com.company.view.component.Information;
+import com.company.view.component.menuBar.MethodMenu;
 import javax.swing.JMenuItem;
 import com.company.modelo.estructuraDatosLineales.ListaSE;
 
@@ -18,13 +18,14 @@ import com.company.modelo.estructuraDatosLineales.ListaSE;
 public class ControllerEstructuraDatosMenu {
     
     Information info;
+
+
+    private ControllerCanvas controllerCanvas;
     
     private ListaSE<Integer> listaSE;
-    private final CanvasFigure canvas;
     private final MethodMenu methodMenu;
     
-    public ControllerEstructuraDatosMenu(CanvasFigure canvas, Information info,MethodMenu methodMenu){
-        this.canvas = canvas;
+    public ControllerEstructuraDatosMenu( Information info,MethodMenu methodMenu){
         this.info = info;
         this.methodMenu = methodMenu;
     }
@@ -39,7 +40,7 @@ public class ControllerEstructuraDatosMenu {
     }
 
     public void setDescription(String description) {
-        info.drawDescription(description);
+        info.appendDescription(description);
     }
 
     public void createMethods(String struct, JMenuItem [] items) {
@@ -47,12 +48,13 @@ public class ControllerEstructuraDatosMenu {
             listaSE = new ListaSE<>();
             methodMenu.clear();
             methodMenu.addItems(items);
-            canvas.drawStruct(struct);
+            controllerCanvas.createGift();
         }
     }
 
     public void addNodo() {
         listaSE.insertar(1);
+        controllerCanvas.addNodoGift();
     }
 
     public void lengthList() {
