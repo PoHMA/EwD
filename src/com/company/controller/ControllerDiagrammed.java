@@ -1,7 +1,7 @@
 package com.company.controller;
 
 import com.company.modelo.estructuraDatosLineales.ListaSE;
-import com.company.view.component.methodPanel.MethodEvent;
+import com.company.view.component.informationPanel.InfoEvent;
 
 public class ControllerDiagrammed {
 
@@ -11,7 +11,7 @@ public class ControllerDiagrammed {
         listaSE = new ListaSE<String>();
     }
 
-    public void addData(MethodEvent ev){
+    public void addData(InfoEvent ev){
         String name = ev.getName();
         listaSE.insertar(name);
     }

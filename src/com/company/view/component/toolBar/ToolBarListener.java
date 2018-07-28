@@ -1,4 +1,6 @@
 package com.company.view.component.toolBar;
 
-public class ToolBarListener {
+public interface ToolBarListener {
+    void saveEventOccured();
+    void refreshEventOccured();
 }

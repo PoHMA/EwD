@@ -8,13 +8,14 @@ package com.company.view;
 import com.company.controller.ControllerDiagrammed;
 import com.company.view.component.*;
 import com.company.view.component.canvas.StringListener;
-import com.company.view.component.methodPanel.MethodEvent;
-import com.company.view.component.methodPanel.MethodListener;
+import com.company.view.component.informationPanel.InfoEvent;
+import com.company.view.component.informationPanel.InformationListener;
+import com.company.view.component.toolBar.ToolBarListener;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.Toolkit;
-import javax.swing.JFrame;
+import javax.swing.*;
 
 /**
  *
@@ -24,11 +25,12 @@ public class Diagrammer extends JFrame{
     
     private final int width;
     private final int height;
-    private Information info;
     private MenuBar navBar;
-    private CanvasFigure canvas;
+    private CanvasAnimation canvas;
     private ToolBar toolBar;
-    private MethodPanel methodPanel;
+    private JSplitPane splitPane;
+    private InformationPanel informationPanel;
+    //private JTabbedPane tabbedPane;
 
     private ControllerDiagrammed controller;
 
@@ -44,7 +46,7 @@ public class Diagrammer extends JFrame{
         setSize(width,height);
         setPositionScreen();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setResizable(false);
+        //setResizable(false);
         setComponents();
         setVisible(true);
     }
@@ -58,33 +60,59 @@ public class Diagrammer extends JFrame{
 
         getContentPane().setLayout(new BorderLayout());
 
-        canvas = new CanvasFigure(100,100);
+        canvas = new CanvasAnimation();
+        toolBar = new ToolBar();
+        navBar = new MenuBar();
+        informationPanel = new InformationPanel();
 
-        info = new Information();
-        toolBar = new ToolBar(info);
-        navBar = new MenuBar(info);
-        methodPanel = new MethodPanel();
+        splitPane = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT,informationPanel,canvas);
+        splitPane.setOneTouchExpandable(true);
 
-        navBar.setStringListener(new StringListener() {
-            public void textEmitted(String text) {
-                info.appendDescription(text);
+        createListenerToolBar();
+        createListenerNavBarPanel();
+        createListenerInformation();
+
+        setJMenuBar(navBar);
+        getContentPane().add(toolBar,BorderLayout.PAGE_START);
+        getContentPane().add(splitPane,BorderLayout.WEST);
+        getContentPane().add(canvas,BorderLayout.CENTER);
+
+    }
+
+
+
+    private void createListenerToolBar(){
+        toolBar.setToolbarListener(new ToolBarListener() {
+            @Override
+            public void saveEventOccured() {
+                System.out.println("1");
+            }
+
+            @Override
+            public void refreshEventOccured() {
+                System.out.println("2");
             }
         });
+    }
 
-        methodPanel.setMethodListener(new MethodListener() {
+    private void createListenerNavBarPanel(){
+        navBar.setStringListener(new StringListener() {
+            public void textEmitted(String text) {
+                System.out.println("eentre nav bar listener");
+            }
+        });
+    }
+
+    private void createListenerInformation() {
+        informationPanel.setActionListener(new InformationListener() {
             @Override
-            public void methodEventOccurred(MethodEvent e) {
+            public void runActionAnimation(InfoEvent e) {
+                canvas.runAddNodeLSE();
                 controller.addData(e);
             }
         });
-
-        getContentPane().add(navBar,BorderLayout.NORTH);
-        getContentPane().add(canvas,BorderLayout.CENTER);
-        getContentPane().add(methodPanel,BorderLayout.WEST);
-        getContentPane().add(info,BorderLayout.EAST);
-        getContentPane().add(toolBar,BorderLayout.SOUTH);
-        
     }
+
 
 }
  

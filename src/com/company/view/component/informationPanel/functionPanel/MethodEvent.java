@@ -1,4 +1,4 @@
-package com.company.view.component.informationPanel.methodPanel;
+package com.company.view.component.informationPanel.functionPanel;
 
 import java.util.EventObject;
 

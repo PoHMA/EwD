@@ -1,4 +1,5 @@
 package com.company.view.component.informationPanel.indexPanel;
 
-public class MessageListener {
+public interface MessageListener {
+    void textEmitted(String text);
 }

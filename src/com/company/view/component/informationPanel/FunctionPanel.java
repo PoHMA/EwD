@@ -44,7 +44,6 @@ public class FunctionPanel extends JPanel {
         setSizePanel();
         setComponentPanel();
         setBorder(border);
-        //add(new JScrollPane(textArea),BorderLayout.CENTER);
         repaint();
     }
 

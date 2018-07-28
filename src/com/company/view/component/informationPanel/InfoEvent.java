@@ -1,17 +1,17 @@
-package com.company.view.component.informationPanel.functionPanel;
+package com.company.view.component.informationPanel;
 
 import java.util.EventObject;
 
-public class MethodEvent extends EventObject {
+public class InfoEvent extends EventObject {
 
 
     private String name;
 
-    public MethodEvent(Object source) {
+    public InfoEvent(Object source) {
         super(source);
     }
 
-    public MethodEvent(Object source, String name){
+    public InfoEvent(Object source, String name){
         super(source);
         this.name = name;
     }

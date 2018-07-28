@@ -1,26 +1,22 @@
 package com.company.view.component;
 
-import com.company.view.component.canvas.AnimacionNodo;
 import com.company.view.component.canvas.CanvasListener;
 import com.company.view.component.canvas.Game;
-import com.company.view.component.informationPanel.methodPanel.MethodEvent;
-import com.company.view.component.informationPanel.methodPanel.MethodListener;
 
 import javax.swing.*;
 import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.ArrayList;
 
-public class Animation extends JPanel implements  ActionListener{
+public class CanvasAnimation extends JPanel implements  ActionListener{
 
     private CanvasListener listener;
 
     private Game game;
     private Timer timer;
 
-    public Animation(){
+    public CanvasAnimation(){
         addListener();
         initPanel();
         repaint();

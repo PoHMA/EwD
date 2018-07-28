@@ -1,7 +1,6 @@
 package com.company.view.component.canvas;
 
 import javax.swing.*;
-import javax.swing.border.Border;
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.geom.AffineTransform;
@@ -10,7 +9,7 @@ import java.awt.geom.Line2D;
 import java.awt.geom.RoundRectangle2D;
 import java.awt.image.BufferedImage;
 
-public class Game extends JComponent {
+public class Animation extends JComponent {
 
     private  Ellipse2D.Double ball = new Ellipse2D.Double(100,100,15,15);
     private Ellipse2D.Double node = new Ellipse2D.Double(100,100,15,15);
@@ -24,7 +23,7 @@ public class Game extends JComponent {
 
     private Graphics2D g2;
 
-    public Game(){
+    public Animation(){
         xDirectionBall = 1;
         yDirectionBall = 1;
         speed = 10.0;

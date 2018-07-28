@@ -6,49 +6,55 @@
 
 package com.company.view.component;
 
+import com.company.library.Utils;
+import com.company.view.component.informationPanel.FunctionPanel;
+import com.company.view.component.toolBar.ToolBarListener;
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import javax.swing.JButton;
-import javax.swing.JPanel;
+import javax.swing.*;
 
 /**
  *
  * @author migi
  */
-public class ToolBar extends JPanel implements ActionListener{
+public class ToolBar extends JToolBar implements ActionListener{
     
     private int width,height;
     private Choice dataStructure;
-    private Information info;
-    
     private boolean draw;
 
-    private JButton prev,play,next;
+    private JButton save, refresh;
+
+    private ToolBarListener listener;
     
-    public ToolBar(Information info){
+    public ToolBar(){
         draw = false;
         this.height = height;
         this.width = width;
-        this.info = info;
         init();
     }
     
     private void init(){
-        //setLayout(new FlowLayout(FlowLayout.LEFT));
-        setLayout(new GridLayout(1,10));
+        setBorder(BorderFactory.createEtchedBorder());
+        //setLayout(new GridLayout(1,10));
 
-        prev = new JButton("Prev");
-        play = new JButton("Play");
-        next = new JButton("Next");
+        save = new JButton("Save");
+        refresh = new JButton("Refresh");
 
-        prev.addActionListener(this);
-        play.addActionListener(this);
-        next.addActionListener(this);
+        save.setIcon(Utils.createIcon("/com/company/img/Save16.gif"));
+        save.setToolTipText("Save");
 
-        add(prev);
-        add(play);
-        add(next);
+        refresh.setIcon(Utils.createIcon("/com/company/img/Refresh16.gif"));
+        refresh.setToolTipText("Refresh");
+
+
+        save.addActionListener(this);
+        refresh.addActionListener(this);
+
+        add(save);
+        add(refresh);
 
     }
 
@@ -59,23 +65,20 @@ public class ToolBar extends JPanel implements ActionListener{
         add(dataStructure);
     }
 
-    
-    public boolean getPlay() {
-        return draw;
+    public void setToolbarListener(ToolBarListener listener){
+        this.listener = listener;
     }
 
     @Override
     public void actionPerformed(ActionEvent e) {
         JButton clicked = (JButton)e.getSource();
 
-        if (clicked == next) {
-            System.out.println("1");
+        if (clicked == save) {
+            listener.saveEventOccured();
         }
-        if (clicked == play) {
-            System.out.println("2");
+        if (clicked == refresh) {
+            listener.refreshEventOccured();
         }
-        if (clicked == prev) {
-            System.out.println("3");
-        }
+
     }
 }
