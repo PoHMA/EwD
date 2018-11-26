@@ -2,57 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49dd6789-6db7-4aa5-90e7-d6e8c5c00c41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/img/Refresh16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/img/Save16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/img/Server16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/img/WebComponent16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/img/WebComponentAdd16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/migii/logicadenegocio/ArbolBinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/migii/logicadenegocio/ArbolNario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/migii/logicadenegocio/ManagerProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/migii/logicadenegocio/elementos/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/migii/logicadenegocio/ArbolNarioTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/controller/ControllerCanvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/controller/ControllerDiagrammed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/controller/ControllerDiagrammed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/controller/menuBar/ControllerEstructuraDatosMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/CanvasFigure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/Information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MethodPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MethodPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/ToolBar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/ToolBar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/canvas/AnimacionNodo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/canvas/Nodo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/EstructuraDatosMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/MethodMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/estructuraDato/EstructuraDatoLineal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/estructuraDato/ListaSE$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/estructuraDato/ListaSE$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/estructuraDato/ListaSE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/methodPanel/MethodEvent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/methodPanel/MethodListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/library/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/library/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/Diagrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/Diagrammer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/CanvasAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/CanvasAnimation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/InformationPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/InformationPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/MenuBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/MenuBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/ToolBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/ToolBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/canvas/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/canvas/Animation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/canvas/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/canvas/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/canvas/animation/AnimationLSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/canvas/animation/AnimationLSE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/FunctionPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/FunctionPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/IndexPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/IndexPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/InfoEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/InfoEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/InformationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/InformationListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/functionPanel/MethodEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/functionPanel/MethodEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/functionPanel/MethodListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/functionPanel/MethodListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/CellInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/CellInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/IndexTreeCellEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/IndexTreeCellEditor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/IndexTreeCellRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/IndexTreeCellRenderer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/MessageListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/toolBar/ToolBarListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/view/component/toolBar/ToolBarListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejemplificador.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejemplificador.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/controller/ControllerDiagrammed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/img/giif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/img/giif2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/modelo/estructuraDatosLineales/Lista.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/modelo/estructuraDatosLineales/ListaSE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/Diagrammer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/MenuBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/ToolBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/canvas/CanvasListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/canvas/StringListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/HelpMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejemplificador/com/company/view/component/menuBar/helpMenu/AboutItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/controller/ControllerDiagrammed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/img/Refresh16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/img/Refresh16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/img/Save16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/img/Save16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/img/Server16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/img/Server16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/img/WebComponent16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/img/WebComponent16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/img/WebComponentAdd16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/img/WebComponentAdd16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/img/giif.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/img/giif.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/img/giif2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/img/giif2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/library/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/library/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/modelo/estructuraDatosLineales/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/modelo/estructuraDatosLineales/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/modelo/estructuraDatosLineales/ListaSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/modelo/estructuraDatosLineales/ListaSE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/Diagrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/Diagrammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/CanvasAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/CanvasAnimation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/InformationPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/InformationPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/MenuBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/MenuBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/ToolBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/ToolBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/canvas/Animation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/canvas/Animation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/canvas/CanvasListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/canvas/CanvasListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/canvas/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/canvas/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/canvas/StringListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/canvas/StringListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/canvas/animation/AnimationLSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/canvas/animation/AnimationLSE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/FunctionPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/FunctionPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/IndexPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/IndexPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/InfoEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/InfoEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/InformationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/InformationListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/functionPanel/MethodEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/functionPanel/MethodEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/functionPanel/MethodListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/functionPanel/MethodListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/CellInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/indexPanel/CellInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/IndexTreeCellEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/indexPanel/IndexTreeCellEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/IndexTreeCellRenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/indexPanel/IndexTreeCellRenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/informationPanel/indexPanel/MessageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/menuBar/HelpMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/menuBar/HelpMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/menuBar/helpMenu/AboutItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/menuBar/helpMenu/AboutItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/view/component/toolBar/ToolBarListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/migii/view/component/toolBar/ToolBarListener.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,54 +76,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Diagrammer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/view/Diagrammer.java">
+      <file leaf-file-name="ManagerProblem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/migii/logicadenegocio/ManagerProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="110" column="30" selection-start-line="110" selection-start-column="30" selection-end-line="110" selection-end-column="30" />
+            <state relative-caret-position="34">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ControllerDiagrammed.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java">
+      <file leaf-file-name="Problem1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/migii/logicadenegocio/elementos/Problem1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InformationPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/view/component/InformationPanel.java">
+      <file leaf-file-name="ArbolBinario.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/migii/logicadenegocio/ArbolBinario.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="119">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1245#1246#0" expanded="true" />
-                <element signature="e#1301#1302#0" expanded="true" />
-                <element signature="e#1940#1941#0" expanded="true" />
-                <element signature="e#1991#1992#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#944#945#0" expanded="true" />
+                <element signature="e#903#904#0" expanded="true" />
+                <element signature="e#922#923#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InfoEvent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/InfoEvent.java">
+      <file leaf-file-name="ArbolNario.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/migii/logicadenegocio/ArbolNario.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FunctionPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/FunctionPanel.java">
+      <file leaf-file-name="ArbolNarioTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/com/migii/logicadenegocio/ArbolNarioTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1819">
-              <caret line="123" column="17" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
+            <state relative-caret-position="253">
+              <caret line="61" column="68" selection-start-line="61" selection-start-column="68" selection-end-line="61" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#450#459#0" expanded="true" />
+                <element signature="e#571#580#0" expanded="true" />
+                <element signature="e#727#736#0" expanded="true" />
+                <element signature="e#718#727#0" expanded="true" />
+                <element signature="e#778#787#0" expanded="true" />
+                <element signature="e#838#847#0" expanded="true" />
+                <element signature="e#898#907#0" expanded="true" />
+                <element signature="e#1515#1524#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,6 +150,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -140,12 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/ToolBar.java" />
-        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/CanvasFigure.java" />
-        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/canvas/StringListener.java" />
-        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/Information.java" />
-        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/EstructuraDatosMenu.java" />
-        <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/estructuraDato/EstructuraDatoLineal.java" />
         <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/estructuraDato/ListaSE.java" />
         <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/methodPanel/methodEvent.java" />
         <option value="$PROJECT_DIR$/src/com/company/view/displayMain/component/methodPanel/MethodListener.java" />
@@ -191,6 +211,12 @@
         <option value="$PROJECT_DIR$/src/com/company/view/Diagrammer.java" />
         <option value="$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java" />
         <option value="$PROJECT_DIR$/src/com/company/view/component/InformationPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/migii/view/component/CanvasAnimation.java" />
+        <option value="$PROJECT_DIR$/src/com/migii/logicadenegocio/elementos/Problem1.java" />
+        <option value="$PROJECT_DIR$/src/com/migii/App.java" />
+        <option value="$PROJECT_DIR$/src/com/migii/logicadenegocio/ArbolBinario.java" />
+        <option value="$PROJECT_DIR$/src/com/migii/logicadenegocio/ArbolNario.java" />
+        <option value="$PROJECT_DIR$/test/com/migii/logicadenegocio/ArbolNarioTest.java" />
       </list>
     </option>
   </component>
@@ -210,6 +236,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,25 +254,50 @@
               <item name="EwD" type="b2602c69:ProjectViewProjectNode" />
               <item name="EwD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="migii" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="migii" type="462c0819:PsiDirectoryNode" />
+              <item name="logicadenegocio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwD" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EwD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EwD" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="logicadenegocio" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/migi/Documents/Develop/EwD/src/com/company/view/component/canvas/Game.java" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.migii.logicadenegocio" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.company.view.component.informationPanel" />
       <recent name="com.company.view.component.canvas" />
@@ -266,9 +319,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ArbolNarioTest.convertirBinario">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.App" />
+      <option name="MAIN_CLASS_NAME" value="com.migii.App" />
       <module name="Ejemplificador" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -284,8 +337,61 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="ArbolNarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ejemplificador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.migii.logicadenegocio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.migii.logicadenegocio" />
+      <option name="MAIN_CLASS_NAME" value="com.migii.logicadenegocio.ArbolNarioTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ArbolNarioTest.convertirBinario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ejemplificador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.migii.logicadenegocio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.migii.logicadenegocio" />
+      <option name="MAIN_CLASS_NAME" value="com.migii.logicadenegocio.ArbolNarioTest" />
+      <option name="METHOD_NAME" value="convertirBinario" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ArbolNarioTest" />
+      <item itemvalue="JUnit.ArbolNarioTest.convertirBinario" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArbolNarioTest.convertirBinario" />
+        <item itemvalue="JUnit.ArbolNarioTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -329,8 +435,47 @@
       <option name="project" value="LOCAL" />
       <updated>1532648013118</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Refactoring of Animation Panel and Information Panel">
+      <created>1532804859010</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1532804859010</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArbolNarioTest - 2018.11.25 at 18h 39m 55s.xml">
+      <configuration name="ArbolNarioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArbolNarioTest - 2018.11.25 at 18h 40m 51s.xml">
+      <configuration name="ArbolNarioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArbolNarioTest - 2018.11.25 at 18h 41m 28s.xml">
+      <configuration name="ArbolNarioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArbolNarioTest - 2018.11.25 at 18h 42m 46s.xml">
+      <configuration name="ArbolNarioTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArbolNarioTest_convertirBinario - 2018.11.25 at 22h 15m 01s.xml">
+      <configuration name="ArbolNarioTest.convertirBinario" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArbolNarioTest_convertirBinario - 2018.11.25 at 22h 18m 30s.xml">
+      <configuration name="ArbolNarioTest.convertirBinario" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArbolNarioTest_convertirBinario - 2018.11.25 at 22h 19m 24s.xml">
+      <configuration name="ArbolNarioTest.convertirBinario" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArbolNarioTest_convertirBinario - 2018.11.25 at 22h 21m 43s.xml">
+      <configuration name="ArbolNarioTest.convertirBinario" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArbolNarioTest_convertirBinario - 2018.11.25 at 22h 22m 03s.xml">
+      <configuration name="ArbolNarioTest.convertirBinario" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArbolNarioTest_convertirBinario - 2018.11.25 at 22h 22m 58s.xml">
+      <configuration name="ArbolNarioTest.convertirBinario" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -343,65 +488,66 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924242" weight="0.32917318" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49851412" weight="0.32454696" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49851412" weight="0.32454696" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5080527" side_tool="true" weight="0.27142859" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4919473" visible="true" weight="0.13014828" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49848485" weight="0.3261944" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5080527" side_tool="true" weight="0.27142859" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4919473" weight="0.276771" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49848485" weight="0.3261944" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49772727" weight="0.32761312" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27987897" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39868203" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" visible="true" weight="0.32986626" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" visible="true" weight="0.32986626" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info id="Learn" order="2" />
+      <window_info id="Learn" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32784185" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49772727" weight="0.32761312" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32784185" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49848485" weight="0.32761312" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27155825" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" visible="true" weight="0.32986626" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4919473" weight="0.13014828" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924242" weight="0.32917318" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4919473" visible="true" weight="0.13014828" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32784185" />
-      <window_info id="Learn" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.32986626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49772727" weight="0.32761312" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5080527" side_tool="true" weight="0.27142859" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49848485" weight="0.3261944" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49851412" weight="0.32454696" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
-      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -448,7 +594,8 @@
     <MESSAGE value="Created NavBAr and Canvas" />
     <MESSAGE value="Created warnings" />
     <MESSAGE value="Merge branch 'master' of https://github.com/PoHMA/EwD&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;&#10;Add TrePanel and Animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/PoHMA/EwD&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;&#10;Add TrePanel and Animation" />
+    <MESSAGE value="Refactoring of Animation Panel and Information Panel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring of Animation Panel and Information Panel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -456,26 +603,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Thread.java" />
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/javax/swing/JComponent.java" />
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/awt/event/ActionListener.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/CodeMenu.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/HelpMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/displayMain/component/menuBar/RecursividadMenu.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/modelo/Controller.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/helpMenu/AboutItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/jre/lib/rt.jar!/javax/swing/JComponent.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -483,14 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/modelo/estructuraDatosLineales/ListaSE.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/modelo/estructuraDatosLineales/ListaSE.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
@@ -498,30 +619,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/img/Save16.gif">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/img/Save16.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/library/Utils.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/library/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/img/WebComponent16.gif">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/img/WebComponent16.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/img/WebComponentAdd16.gif">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/img/WebComponentAdd16.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/img/Server16.gif">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/img/Server16.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/MethodMenu.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/estructuraDato/EstructuraDatoLineal.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/estructuraDato/ListaSE.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/menuBar/EstructuraDatosMenu.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/canvas/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
@@ -529,7 +650,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/TreeCellRenderer.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/CellInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/indexPanel/CellInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
@@ -539,168 +660,233 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/Nodo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/AnimacionNodo.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/CanvasFigure.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/CanvasListener.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/canvas/CanvasListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/modelo/estructuraDatosLineales/Lista.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/modelo/estructuraDatosLineales/Lista.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/IndexTreeCellEditor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/IndexTreeCellRenderer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-249">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/MethodPanel.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/controller/ControllerCanvas.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/controller/menuBar/ControllerEstructuraDatosMenu.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/animation/AnimationLSE.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/canvas/animation/AnimationLSE.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/Animation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/toolBar/ToolBarListener.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/toolBar/ToolBarListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/functionPanel/MethodEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/ToolBar.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/ToolBar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/MenuBar.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/MenuBar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="50" column="13" lean-forward="true" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/indexPanel/MessageListener.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/indexPanel/MessageListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/functionPanel/MethodListener.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/functionPanel/MethodListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/canvas/StringListener.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/canvas/StringListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/CanvasAnimation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/IndexPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2962#2963#0" expanded="true" />
-            <element signature="e#3002#3003#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/InformationListener.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/InformationListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/InfoEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/informationPanel/FunctionPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1819">
-          <caret line="123" column="17" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/controller/ControllerDiagrammed.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/controller/ControllerDiagrammed.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/component/InformationPanel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/InformationPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="51">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/Diagrammer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/menuBar/helpMenu/AboutItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/menuBar/HelpMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/InfoEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/CanvasAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/canvas/Animation.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/FunctionPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="123" column="17" selection-start-line="123" selection-start-column="17" selection-end-line="123" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/IndexPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/functionPanel/MethodEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/indexPanel/IndexTreeCellEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="41" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/view/component/informationPanel/indexPanel/IndexTreeCellRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/logicadenegocio/ManagerProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
-            <element signature="e#1301#1302#0" expanded="true" />
-            <element signature="e#1940#1941#0" expanded="true" />
-            <element signature="e#1991#1992#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/Diagrammer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/migii/logicadenegocio/elementos/Problem1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="110" column="30" selection-start-line="110" selection-start-column="30" selection-end-line="110" selection-end-column="30" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/logicadenegocio/ArbolBinario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/migii/logicadenegocio/ArbolNario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/migii/logicadenegocio/ArbolNarioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="61" column="68" selection-start-line="61" selection-start-column="68" selection-end-line="61" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#450#459#0" expanded="true" />
+            <element signature="e#571#580#0" expanded="true" />
+            <element signature="e#727#736#0" expanded="true" />
+            <element signature="e#718#727#0" expanded="true" />
+            <element signature="e#778#787#0" expanded="true" />
+            <element signature="e#838#847#0" expanded="true" />
+            <element signature="e#898#907#0" expanded="true" />
+            <element signature="e#1515#1524#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
